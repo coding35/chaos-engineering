@@ -1,0 +1,17 @@
+/home/adam/Repos/chaos-engineering/CoreApp/bin/Debug/net6.0/CoreApp
+/home/adam/Repos/chaos-engineering/CoreApp/bin/Debug/net6.0/CoreApp.deps.json
+/home/adam/Repos/chaos-engineering/CoreApp/bin/Debug/net6.0/CoreApp.runtimeconfig.json
+/home/adam/Repos/chaos-engineering/CoreApp/bin/Debug/net6.0/CoreApp.dll
+/home/adam/Repos/chaos-engineering/CoreApp/bin/Debug/net6.0/CoreApp.pdb
+/home/adam/Repos/chaos-engineering/CoreApp/obj/Debug/net6.0/CoreApp.csproj.AssemblyReference.cache
+/home/adam/Repos/chaos-engineering/CoreApp/obj/Debug/net6.0/CoreApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/adam/Repos/chaos-engineering/CoreApp/obj/Debug/net6.0/CoreApp.AssemblyInfoInputs.cache
+/home/adam/Repos/chaos-engineering/CoreApp/obj/Debug/net6.0/CoreApp.AssemblyInfo.cs
+/home/adam/Repos/chaos-engineering/CoreApp/obj/Debug/net6.0/CoreApp.csproj.CoreCompileInputs.cache
+/home/adam/Repos/chaos-engineering/CoreApp/obj/Debug/net6.0/CoreApp.dll
+/home/adam/Repos/chaos-engineering/CoreApp/obj/Debug/net6.0/refint/CoreApp.dll
+/home/adam/Repos/chaos-engineering/CoreApp/obj/Debug/net6.0/CoreApp.pdb
+/home/adam/Repos/chaos-engineering/CoreApp/obj/Debug/net6.0/CoreApp.genruntimeconfig.cache
+/home/adam/Repos/chaos-engineering/CoreApp/obj/Debug/net6.0/ref/CoreApp.dll
+/home/adam/Repos/chaos-engineering/CoreApp/bin/Debug/net6.0/Polly.dll
+/home/adam/Repos/chaos-engineering/CoreApp/obj/Debug/net6.0/CoreApp.csproj.CopyComplete

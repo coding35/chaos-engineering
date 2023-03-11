@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+qOTglbXz50F8nyWljLi/zYtgS7lKyZSgfKLUbxgWY64Bw0xnjE+f5IQiN22fLtXFrKmfawk+qVlE0DJxgAcMA==",
+  "success": true,
+  "projectFilePath": "/home/adam/Repos/chaos-engineering/CoreApp/CoreApp.csproj",
+  "expectedPackageFiles": [
+    "/home/adam/.nuget/packages/polly/7.2.3/polly.7.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
